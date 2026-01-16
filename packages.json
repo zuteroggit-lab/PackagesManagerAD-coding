@@ -4,7 +4,7 @@
       "name": "test",
       "version": "1.0",
       "desc": "Test package for PackagesManagerAD",
-      "url": "https://raw.githubusercontent.com/zuteroggit-lab/PackagesManagerAD-coding/main/packages/test.ad",
+      "url": "https://raw.githubusercontent.com/zuteroggit-lab/PackagesManagerAD-coding/blob/main/packages/test.ad",
       "type": "library"
     }
   ]
